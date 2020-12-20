@@ -1,11 +1,10 @@
-# AlpHub
+Source Code: https://github.com/Alp-R/AlpHub
 
-Made by: Me
+Scripts Used: https://github.com/Alp-R/AlpHub/tree/scripts
 
-Scripts by: robloxscripts.com
+Scripts by: https://robloxscripts.com
 
-UI Library: https://github.com/Kinlei/MaterialLua
-
+UI library: https://materiallua.ml
 
 Games:
 
@@ -15,4 +14,8 @@ Impostor
 
 Natural Disaster Survival
 
-More soon.
+Tested Exploits:
+Synapse X: Works
+ProtoSmasher: Works
+KRNL: Not tested but Probably will works
+Free Exploits: Unkown (DM AlperSocial#2792 if you tested any exploit for the hub)
