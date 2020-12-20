@@ -1,0 +1,5 @@
+for i,v in pairs(Workspace.Interact:GetDescendants()) do
+   if v.Name == "Vent" or v.Name == "Double Doors" or v.Name == "Lockdown Doors" then
+       v:Destroy()
+   end
+end
