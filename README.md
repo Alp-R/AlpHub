@@ -1,7 +1,5 @@
 # AlpHub
 
-Made by: Me
+These are the added scripts for AlpHub
 
-Scripts by: robloxscript.com
-
-UI Library: https://github.com/Kinlei/MaterialLua
+Scripts by: robloxscripts.com
