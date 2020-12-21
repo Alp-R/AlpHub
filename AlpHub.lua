@@ -161,13 +161,6 @@ Page2.Button({
     end
 })
 
-Page2.Button({
-    Text = "Fencing GUI and Replication GUI by DoxxMane",
-    Callback = function()
-       print("why did you click on button")
-    end
-})
-
 
 
 Page3.Button({
