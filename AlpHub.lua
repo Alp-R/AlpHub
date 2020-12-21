@@ -53,7 +53,7 @@ Page.Button({
 Page.Button({
     Text = "ChatHaxx",
     Callback = function()
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/Alp-R/AlpHub/scripts/Char%20Haxx.lua"))() 
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Alp-R/AlpHub/scripts/Chat%20Haxx.lua"))() 
     end
 })
 
