@@ -22,4 +22,6 @@ Free Exploits: Unkown (DM AlperSocial#2792 if you tested any exploit for the hub
 
 
 ChangeLog:-
+
+
 -Fixed CHatHaxx
