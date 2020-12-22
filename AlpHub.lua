@@ -102,14 +102,14 @@ Page.Button({
 Page.Button({
     Text = "Clovr R6",
     Callback = function()
-       loadstring(game:HttpGet("https://github.com/Alp-R/AlpHub/blob/scripts/CLOVR%20R6", true))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/Alp-R/AlpHub/scripts/CLOVR%20R6", true))()
     end
 })
 
 Page4.Button({
     Text = "Clovr R6 (Synapse Edition)",
     Callback = function()
-       loadstring(game:HttpGet("https://github.com/Alp-R/AlpHub/blob/scripts/CLOVR%20R6%20Synapse%20Only", true))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/Alp-R/AlpHub/scripts/CLOVR%20R6%20Synapse%20Only", true))()
     end
 })
 
