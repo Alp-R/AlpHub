@@ -25,3 +25,6 @@ ChangeLog:-
 
 
 -Fixed CHatHaxx
+
+
+-Uploaded CLOVR scripts into https://github.com/Alp-R/AlpHub/tree/scripts rather than pastebin
